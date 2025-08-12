@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/mobile-crm-manager-156114-156123/crm_mobile_frontend/.dart_tool/flutter_build/03bbd0a07847ec9d52a3e7ad61b4e491/native_assets.json: 
